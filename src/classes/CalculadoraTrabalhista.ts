@@ -1,4 +1,4 @@
-import Calculadora from './calculadora'
+import Calculadora from './Calculadora'
 
 export default class CalculadoraTrabalhista extends Calculadora {
 
